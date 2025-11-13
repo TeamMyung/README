@@ -40,22 +40,23 @@
 
 ## 기술 스택
 
-**백엔드**: Java 17, Spring Boot 3.5.7, Spring Security, QueryDSL, Spring Cloud  
-**데이터베이스**: PostgreSQL, Redis  
-**DevOps**: Docker, Docker Compose  
-**메시징/모니터링**: Kafka, Zipkin  
-**API 문서화**: Swagger  
-**외부 API**: Slack, Kakao Map, Gemini  
+- **백엔드**: Java 17, Spring Boot 3.5.7, Spring Security, QueryDSL, Spring Cloud  
+- **데이터베이스**: PostgreSQL, Redis  
+- **DevOps**: Docker, Docker Compose  
+- **메시징/모니터링**: Kafka, Zipkin  
+- **API 문서화**: Swagger  
+- **외부 API**: Slack, Kakao Map, Gemini  
 
 ---
 
 ## 시스템 아키텍처
 
-
+<img width="896" height="644" alt="Image" src="https://github.com/user-attachments/assets/bb380474-e695-475b-b639-c676db35092c" />
 
 ---
 ## ERD
 
+<img width="959" height="612" alt="Image" src="https://github.com/user-attachments/assets/df10870c-3dd8-478d-a485-4244cd41aba9" />
 
 
 
